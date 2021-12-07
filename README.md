@@ -6,6 +6,6 @@
                   
 #### 소스코드
   * [model](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/src/com/bc/model)
-  * [view](/2ndNotice/WebContent/)
-  * [controller](/2ndNotice/src/com/bc/controller/)
+  * [view](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/WebContent)
+  * [controller](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/src/com/bc)
 
