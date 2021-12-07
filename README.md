@@ -7,5 +7,5 @@
 #### 소스코드
   * [model](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/src/com/bc/model)
   * [view](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/WebContent)
-  * [controller](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/src/com/bc)
+  * [controller](https://github.com/seolbb/semi-project/tree/main/PROJECT_DOLBOM/src/com/bc/model/command/member)
 
