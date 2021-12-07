@@ -15,10 +15,16 @@
 
 
 ### 📌DB ERD
-![2021-12-07 155852](https://user-images.githubusercontent.com/92971809/144981663-90e72443-fb5b-4783-b447-9bfafb5564f0.png)
+![제목을-입력해주세요_-010](https://user-images.githubusercontent.com/92971809/144999554-64238cae-86e1-4efe-aaf6-a746de561710.png)
 
 
 
 ### 📌VIEW
-
+![010](https://user-images.githubusercontent.com/92971809/144999663-29e1a79a-24cf-4f33-bf91-013c98ec5d8f.png)
+![011](https://user-images.githubusercontent.com/92971809/144999668-18c3e929-fee6-4fa4-9a94-7918577bf0ad.png)
+![012](https://user-images.githubusercontent.com/92971809/144999670-53e6843b-b21c-41e9-bbe5-8dae0916c0aa.png)
+![013](https://user-images.githubusercontent.com/92971809/144999672-4fa8513c-3586-4162-a200-78d94e244f91.png)
+![014](https://user-images.githubusercontent.com/92971809/144999674-48418ce1-0cc3-4213-a4a8-792f2a32d6ae.png)
+![015](https://user-images.githubusercontent.com/92971809/144999676-f0db02be-9956-4978-ac59-0bc4300851dc.png)
+![016](https://user-images.githubusercontent.com/92971809/144999680-f1649d43-15ec-41e7-abe2-3445ea24a1a2.png)
 
