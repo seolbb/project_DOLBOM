@@ -15,7 +15,7 @@
 
 
 ### 📌DB ERD
-![제목을-입력해주세요_-010](https://user-images.githubusercontent.com/92971809/144999554-64238cae-86e1-4efe-aaf6-a746de561710.png)
+![2021-12-07 155852](https://user-images.githubusercontent.com/92971809/144999956-97d98ec2-0b24-4382-b463-aab502e239e3.png)
 
 
 
